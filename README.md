@@ -1,0 +1,2 @@
+# my-photos-slider
+photos
